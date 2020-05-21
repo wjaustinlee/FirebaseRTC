@@ -1,6 +1,7 @@
-# Firebase + WebRTC Codelab
+# Firebase + WebRTC P2P Video Chat App
 
-This is the GitHub repo for the FirebaseRTC codelab. This will teach you how 
-to use Firebase Cloudstore for signalling in a WebRTC video chat application.
+See https://fir-rtc-c82c2.web.app/ for the live app.
 
-See http://webrtc.org for details.
+This app uses Firebase Cloudstore to host signalling in a WebRTC video chat application. Created by following the Firebase + WebRTC codelab at http://webrtc.org
+
+
